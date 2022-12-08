@@ -1,2 +1,4 @@
 Flask
 requests
+jsonschema
+python-dotenv
